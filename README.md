@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Datacare LLC
+- 🔭 I’m currently working on something
 - 🌱 I’m currently learning [React-Native]
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on something
+- 🤔 I’m looking for help with something
+- 💬 Ask me about something
+- 📫 How to reach me: something
+- 😄 Pronouns: something
+- ⚡ Fun fact: something
 -->
